@@ -1,0 +1,16 @@
+{
+    "name"       : "tricarte/disable-application-passwords",
+    "description": "Disable application passwords feature in WP 5.6+",
+    "homepage"   : "https://github.com/tricarte/disable-application-passwords",
+    "type"       : "wordpress-muplugin",
+    "license"    : "MIT",
+    "authors"    : [
+        {
+            "name"    : "tricarte"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
+
